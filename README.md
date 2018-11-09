@@ -1,10 +1,10 @@
 # Paper 
-Zhongyuan Zhao, Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks, EESS.SP, vol abs/1810.07181, Oct. 2018, [Online] https://arxiv.org/abs/1810.07181
+Zhongyuan Zhao, Mehmet C. Vuran, Fujuan Guo, and Stephen Scott, Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks, EESS.SP, vol abs/1810.07181, Oct. 2018, [Online] https://arxiv.org/abs/1810.07181
 
 [Pre-Print](https://arxiv.org/abs/1810.07181)
 
 @article{zhao2018dcnn,
-author={Zhongyuan Zhao},
+author={Zhongyuan Zhao and Mehmet C. Vuran and Fujuan Guo and Stephen Scott},
 title={Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks},
 journal={EESS.SP},
 vol = {abs/1810.07181},
