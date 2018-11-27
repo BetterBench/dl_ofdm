@@ -3,6 +3,7 @@ Zhongyuan Zhao, Mehmet C. Vuran, Fujuan Guo, and Stephen Scott, Deep-Waveform: A
 
 [Pre-Print](https://arxiv.org/abs/1810.07181)
 
+'''
 @article{zhao2018dcnn,
 author={Zhongyuan Zhao and Mehmet C. Vuran and Fujuan Guo and Stephen Scott},
 title={Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks},
@@ -12,6 +13,7 @@ month = {Oct},
 year = {2018},
 url={https://arxiv.org/abs/1810.07181},
 }
+'''
 
 ## Abstract
 Recent explorations of Deep Learning in the physical layer (PHY) of wireless communication have shown the capabilities of Deep Neuron Networks in tasks like channel coding, modulation, and parametric estimation. However, it is unclear if Deep Neuron Networks could also learn the advanced waveforms of current and next-generation wireless networks, and potentially create new ones. In this paper, a Deep Complex Convolutional Network (DCCN) without explicit Discrete Fourier Transform (DFT) is developed as an Orthogonal Frequency-Division Multiplexing (OFDM) receiver. Compared to existing deep neuron network receivers composed of fully-connected layers followed by non-linear activations, the developed DCCN not only contains convolutional layers but is also almost (and could be fully) linear. Moreover, the developed DCCN not only learns to convert OFDM waveform with Quadrature Amplitude Modulation (QAM) into bits under noisy and Rayleigh channels, but also outperforms expert OFDM receiver based on Linear Minimum Mean Square Error channel estimator with prior channel knowledge in the low to middle Signal-to-Noise Ratios of Rayleigh channels. It shows that linear Deep Neuron Networks could learn transformations in signal processing, thus master advanced waveforms and wireless channels.
